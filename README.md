@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Sheng. 
+
+web-dev related: [![My Development Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,svelte,mysql,sqlite,vercel,cite)](https://skillicons.dev)
+
+data science / machine learning related: [![My Data Science Skills](https://skillicons.dev/icons?i=r,python,java,c,matlab,pytorch,tensorflow)](https://skillicons.dev)
+
+design related: [![My Design Skills](https://skillicons.dev/icons?i=ai,figma,d3,tailwind)](https://skillicons.dev)
+
 <!--
 **mika-long/mika-long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
